@@ -127,7 +127,7 @@ with mp_hands.Hands(
                     y = int(i.y * h)
                     finger_points.append((x, y))
                     # 輸出節點
-                    cv2.circle(img, (x, y), 5, (0, 0, 255), -1)  # 红色节点
+                    cv2.circle(img, (x, y), 5, (0, 0, 255), -1)  # 紅色節點
                 # 輸出連接線
                 for connection in mp_hands.HAND_CONNECTIONS:
                     start_idx, end_idx = connection
