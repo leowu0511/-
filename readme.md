@@ -41,3 +41,7 @@
 1. created by 20515吳致穎
 2. 情感支持 20510 王秉宏 20514吳宥霖 20520林郁騏 20528黃立丞 20524張有騰
 
+# 簡報連結
+
+1. https://www.canva.com/design/DAGH7GO2PKE/0RuHTOTHnzLQjWl-JEOP9w/edit?utm_content=DAGH7GO2PKE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
